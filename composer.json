@@ -1,0 +1,17 @@
+{
+  "name": "rojek-seo/cloaking-gpt",
+  "description": "A package to cloak ChatGPT based on user-agent and IP.",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "RojekSeo\\": "src/"
+    }
+  },
+  "require": {},
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Thibaut Lasserre"
+    }
+  ]
+}
